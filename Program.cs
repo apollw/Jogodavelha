@@ -107,6 +107,7 @@ namespace JogoDaVelha
                     }                    
                 } while (!inputCorrect);            
             } while (true);
+            Console.ReadKey();
         }
         #endregion
 
